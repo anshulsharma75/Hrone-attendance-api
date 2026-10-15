@@ -1,0 +1,6 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+verify_local.py
+STUDY_GUIDE.md
